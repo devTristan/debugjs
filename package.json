@@ -1,8 +1,8 @@
 {
   "author": "Tristan Davies <npm@tristan.io> (http://tristan.io)",
-  "name": "debug",
+  "name": "tristan-debug",
   "description": "debuggy thing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./debug",
   "engines": {
     "node": "~0.8.1"
