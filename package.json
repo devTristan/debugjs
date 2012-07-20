@@ -1,7 +1,7 @@
 {
   "author": "Tristan Davies <npm@tristan.io> (http://tristan.io)",
-  "name": "tristans-simple-debug",
-  "description": "debuggything",
+  "name": "debug",
+  "description": "debuggy thing",
   "version": "0.0.1",
   "main": "./debug",
   "engines": {
